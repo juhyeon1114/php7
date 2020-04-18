@@ -1,0 +1,6 @@
+
+admin
+cppassword12#$
+
+jenkins-github token
+cfc2d3c38ba061f683133de629b6e2491f1b09d4
